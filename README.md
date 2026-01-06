@@ -29,20 +29,16 @@ To ensure a consistent environment, follow these steps :
 
 ### Conda Method (Recommended)
 
-1. 
-**Create Environment**: `conda create -n textmining python=3.9 -y` 
+1. **Create Environment**: `conda create -n textmining python=3.9 -y` 
 
 
-2. 
-**Activate**: `conda activate textmining` 
+2. **Activate**: `conda activate textmining` 
 
 
-3. 
-**Install Requirements**: `pip install ipykernel notebook` and `pip install -r requirements.txt` 
+3. **Install Requirements**: `pip install ipykernel notebook` and `pip install -r requirements.txt` 
 
 
-4. 
-**Register Kernel**: `python -m ipykernel install --user --name textmining --display-name "Python (textmining)"` 
+4. **Register Kernel**: `python -m ipykernel install --user --name textmining --display-name "Python (textmining)"` 
 
 
 
