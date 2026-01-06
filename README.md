@@ -62,5 +62,5 @@ If not using Conda, install the following core libraries directly:
 
 * **Textbook**: "잡아라! 텍스트마이닝 with 파이썬"
 * 
-**Source Material**: Environment setup and curriculum designed by Alex (**dadaboev170998@gmail.com**).
+**Source Material**: Environment setup and curriculum designed by me Alex (**dadaboev170998@gmail.com**).
  
