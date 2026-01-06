@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Text Mining Fundamentals" width="100%">
+</p>
+
 # Text Mining Fundamentals with Python
 
 ## About
